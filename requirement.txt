@@ -1,7 +1,5 @@
 streamlit
 numpy
 pandas
-import matplotlib.pyplot as plt
-result = func()
-exec(code, module.__dict__)
+matplotlib
 pip install matplotlib
