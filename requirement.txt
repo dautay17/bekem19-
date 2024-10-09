@@ -1,4 +1,4 @@
 streamlit
 numpy
 pandas
-matplotlib
+import matplotlib.pyplot as plt
