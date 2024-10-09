@@ -4,3 +4,4 @@ pandas
 import matplotlib.pyplot as plt
 result = func()
 exec(code, module.__dict__)
+pip install matplotlib
